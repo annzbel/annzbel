@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me @a.nna.bel IG
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
 
 <!---
 annzbel/annzbel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
