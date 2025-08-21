@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on beginner projects
-- 📫 How to reach me @a.nna.bel IG
+- 📫 How to reach me @a.nnabel_ig IG
 - 😄 Pronouns: she/her
 
 <!---
